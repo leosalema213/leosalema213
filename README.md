@@ -1,5 +1,5 @@
-## Bem-vindo(a) ao perfil do Leonardo-ps 😁
-
+## Hi 👋, I'm Leonardo Patrick
+### A passionate Full Stack JAVA developer
  <div>
    <a href="https://github.com/leosalema213">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leosalema213&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
