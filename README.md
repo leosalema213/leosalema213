@@ -1,5 +1,12 @@
 ## Hi 👋, I'm Leonardo Patrick
 ### A passionate Full Stack JAVA developer
+Eu amo tecnologia desde que consigo me lembrar, sou um amante da 
+aprendizagem.
+Desenvolvedor autoditata, através de documentações, videos no 
+youtube, bootcamps e cursos profissionalizantes e claro, muita prática.
+Pensando fora da caixa e com muita determinação, sendo pró-ativo e com 
+um mindset empreendedor, e agora procuro uma vaga para continuar 
+fazendo de uma paixão, um trabalho.
 
  <div>
    <a href="https://github.com/leosalema213">
