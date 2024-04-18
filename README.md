@@ -1,12 +1,13 @@
-## Hi 👋, I'm Leonardo Patrick
-### A passionate Full Stack JAVA developer
-Eu amo tecnologia desde que consigo me lembrar, sou um amante da 
-aprendizagem.
-Desenvolvedor autoditata, através de documentações, videos no 
-youtube, bootcamps e cursos profissionalizantes e claro, muita prática.
-Pensando fora da caixa e com muita determinação, sendo pró-ativo e com 
-um mindset empreendedor, e agora procuro uma vaga para continuar 
-fazendo de uma paixão, um trabalho.
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raised%20Back%20of%20Hand.png" alt="Raised Back of Hand" width="25" height="25" /> Olá, sou Leonardo Patrick! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" />
+### Desenvolvedor Full Stack Java
+✨Eu amo tecnologia desde que consigo me lembrar, sou um amante da aprendizagem.
+Desenvolvedor autoditata, através de documentações, videos no youtube, bootcamps e cursos profissionalizantes e claro, muita prática.
+
+🌟 Eu prospero diante de desafios e continuamente busco oportunidades para crescer e expandir minhas habilidades. 
+Seja transformando ideias complexas em soluções elegantes ou colaborando em uma equipe dinâmica, estou comprometido em entregar excelência em cada projeto.
+
 
  <div>
    <a href="https://github.com/leosalema213">
