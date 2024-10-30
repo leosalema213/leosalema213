@@ -6,7 +6,7 @@
 Desenvolvedor autoditata, através de documentações, videos no youtube, bootcamps e cursos profissionalizantes e claro, muita prática.
 
 🌟 Eu prospero diante de desafios e continuamente busco oportunidades para crescer e expandir minhas habilidades. 
-Seja transformando ideias complexas em soluções elegantes ou colaborando em uma equipe dinâmica, estou comprometido em entregar excelência em cada projeto.
+Seja transformando ideias complexas em soluções inteligentes e colaborando em uma equipe dinâmica, estou comprometido em entregar excelência em cada projeto.
 
 
  <div>
